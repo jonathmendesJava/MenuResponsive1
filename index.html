@@ -3,11 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/8aa37a167b.js" crossorigin="anonymous"></script>
     <title>Tela Login Animada</title>
     <link rel="stylesheet" href="./style.css">
-    <link rel="stylesheet" href="./index.js">
 </head>
     <body>
-        
+        <div class="wrapper">
+            <form autocomplete="off">
+                <h2>Login</h2>
+                <div class="input-group">
+                    <input type="text" required>
+                    <label>Nome Usuario</label>
+                    <span class="icon">
+                        <i class="fa-regular fa-user fa-beat"></i>
+                    </span>
+                    <span class="line"></span>
+                </div>
+
+                <div class="input-group">
+                    <input type="password" id="password" required>
+                    <label>Senha</label>
+                    <span class="icon" id="togglePassword">
+                        <i class="far fa-eye-slash"></i>
+                    </span>
+                    <span class="line"></span>
+                </div>
+                
+                <div class="check">
+                    <label>
+                        <input type="checkbox">
+                        Lembrar senha?
+                    </label>
+                    <a href="#">Esqueci Senha</a>
+                </div>
+                <button type="submit">Login</button>
+                <div class="register">
+                    <p>Não tem uma conta? <a href="#">Inscrever-se</a></p> 
+                </div>
+            </form>
+        </div>
+
+
+        <script src="./main.js"></script>
     </body>
 </html>
