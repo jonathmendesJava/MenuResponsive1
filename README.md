@@ -1,14 +1,13 @@
 ## 🔨 Funcionalidades do projeto
 
-- `Funcionalidade` `Calculadora`: Inicio de projeto para praticar css e html & js com DOM.
-- `Funcionalidade 2` `Manipulação DOM`: Manipulando Tema, styles, atributos, buttons.
+- `Funcionalidade` `Tela Login`: Projeto para fins academicos, utilizar tecnicar Css, Html, Js.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - ``HTML``
 - ``Vs Code``
 - ``CSS``
-- ``DOM``
+- ``FontAwasome``
 - ``JavaScript``
 
 </section>
@@ -21,7 +20,8 @@
 ## 😀 Imagens
 <section>
   <p>
-    <img src="https://i.ibb.co/tLF3YhK/tela-inicial.png" alt="tela-inicial" border="0">
-    <img src="https://i.ibb.co/XCtzqYY/tela-2.png" alt="tela-2" border="0"> 
+    <img src="https://i.ibb.co/JrxQ47f/Tela-login.png" alt="Tela-login" border="0">
+    <img src="https://i.ibb.co/9nJBGgR/tela-com-efeito.png" alt="tela-com-efeito" border="0">
+    <img src="https://i.ibb.co/bPfmLzD/tela-com-efeito2.png" alt="tela-com-efeito2" border="0">  
   </p>
 </section>
